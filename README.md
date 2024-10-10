@@ -3,6 +3,7 @@
 UMeet adalah sebuah aplikasi berbasis Android yang membantu pengguna dalam mengatur dan mengelola pertemuan (meetings) secara efisien. Aplikasi ini mendukung fitur seperti penjadwalan, notifikasi, dan pengingat pertemuan.
 
 ## Fitur
+Memuat informasi mengenai kegiatan yang ada di Fakultas Ilmu Komputer seperti informasi kegiatan webinar dan sebagainya, aplikasi ini dapat:
 
 - **Penjadwalan Pertemuan**: Pengguna dapat membuat dan mengelola jadwal pertemuan dengan mudah.
 - **Notifikasi Pengingat**: Notifikasi otomatis untuk mengingatkan pengguna tentang pertemuan yang akan datang.
@@ -11,7 +12,6 @@ UMeet adalah sebuah aplikasi berbasis Android yang membantu pengguna dalam menga
 ## Teknologi yang Digunakan
 
 - **Android Studio**: IDE untuk pengembangan aplikasi Android.
-- **Kotlin**: Bahasa pemrograman utama yang digunakan dalam proyek ini.
 - **Gradle**: Sistem build yang digunakan untuk manajemen dependensi.
 
 ## Cara Instalasi
